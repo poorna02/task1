@@ -21,3 +21,13 @@ yaran 2/20
 yaran 2/40
 
 yaran pattu
+
+red
+
+yellow
+
+green
+
+brown
+
+brown br
